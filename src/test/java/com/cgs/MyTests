@@ -1,3 +1,5 @@
+package com.cgs;
+
 import org.junit.Test;
 
 public class MyTests {
