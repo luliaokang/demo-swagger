@@ -19,6 +19,7 @@ public class TestController {
 	public String hello(
 			@ApiParam(required = false, value = "姓名") @RequestParam(required = false) String name) {
 		return "hello," + name;
+		
 	}
 	
 	@RequestMapping(value = "/hello2", method = RequestMethod.GET)
