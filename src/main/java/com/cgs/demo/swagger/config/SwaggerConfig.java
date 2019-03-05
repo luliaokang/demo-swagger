@@ -25,6 +25,7 @@ public class SwaggerConfig {
 //				.apis(RequestHandlerSelectors.basePackage("com.cgs.demo.swagger.controller.TestController"))
 				.paths(PathSelectors.ant("/rest/**")) // 对rest路径进行监控
 				.build();
+		
 	}
 
 }
