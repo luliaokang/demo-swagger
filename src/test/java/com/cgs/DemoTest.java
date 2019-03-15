@@ -11,7 +11,7 @@ public class DemoTest {
 
 	@Test
 	public void contextLoads() {
-		sss
+		throw new Exception("exception aaaaaa");
 	}
 
 }
