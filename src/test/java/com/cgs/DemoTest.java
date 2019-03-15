@@ -7,10 +7,10 @@ import org.junit.Test;
 
 // @RunWith(SpringRunner.class)
 // @SpringBootTest
-public class DemoTest2 {
+public class DemoTest {
 
 	@Test
-	public void contextLoads2() {
+	public void contextLoads() {
 		
 	}
 
