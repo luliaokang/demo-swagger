@@ -7,7 +7,7 @@ import org.junit.Test;
 
 // @RunWith(SpringRunner.class)
 // @SpringBootTest
-public class DemoTest {
+public class DemoTest throws Exception{
 
 	@Test
 	public void contextLoads() {
