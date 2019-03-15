@@ -7,10 +7,10 @@ import org.junit.Test;
 
 // @RunWith(SpringRunner.class)
 // @SpringBootTest
-public class DemoTest throws Exception{
+public class DemoTest{
 
 	@Test
-	public void contextLoads() {
+	public void contextLoads() throws Exception {
 		throw new Exception("exception aaaaaa");
 	}
 
