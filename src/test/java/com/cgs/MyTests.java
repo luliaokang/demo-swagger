@@ -6,6 +6,6 @@ public class MyTests {
 
     @Test
     public void a() throws Exception{
-        throw new Exception("exception bbbbb");
+//         throw new Exception("exception bbbbb");
     }
 }
