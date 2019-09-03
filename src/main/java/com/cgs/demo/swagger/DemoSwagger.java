@@ -6,7 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class DemoSwagger {
 
-// 	public static void main(String[] args) {
-// 		SpringApplication.run(DemoSwagger.class, args);
-// 	}
+	public static void main(String[] args) {
+    aaaaaaa
+		SpringApplication.run(DemoSwagger.class, args);
+	}
 }
